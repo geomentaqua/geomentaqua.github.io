@@ -1,40 +1,36 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "ABOUT US"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## Location and Founding
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+Geoment Aqua Services is a leading consulting firm focused on data-driven solutions for water management and climate resilience. 
+Based in Wageningen, Netherlands, we were founded in 2019 by Moses Kolleh Sesay and a team of hydrologists, data scientists, and environmental engineers and scientists.
 
-## Tips and hints
+## Mission
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+Our mission is to help create water and climate resilient communities globally. We accomplish this by providing cutting-edge analytics, modeling, engineering, and strategic consulting services related to water resources, infrastructure, and climate adaptation
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+## Management
+Led by our CEO and founder Moses Kolleh Sesay and our team of over 15 consultants, engineers, and scientists, we have delivered over 10 successful projects to date for municipal, agricultural, industrial, and ecosystem clients. Geoment Aqua Services holds credentials, including [list relevant certifications or awards].
 
-## Markdown guide
+Our areas of expertise include:
+
+- Water resources management
+- Hydrological modeling
+- Climate risk assessment
+- Flood forecasting and control
+- Irrigation optimization
+- Water infrastructure design
+- Drought preparedness planning
+- Ecosystem conservation
+
+We are proud to count organizations such as [logos of major clients] as our partners in creating a water secure future.## Markdown guide
 
 ### Header three
 
